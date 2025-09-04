@@ -1,5 +1,7 @@
 # Programacao-Dispositivos-Moveis-Atividades
 
+Aluno: Lucas Viana de Abrantes
+
 ## Resultados Exercios
 
 Exercicio 1:
