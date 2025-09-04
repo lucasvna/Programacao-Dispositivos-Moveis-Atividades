@@ -8,10 +8,10 @@ import Exercicio4 from './src/components/Exercicio4'
 const App = () => {
   return (
     <View>
-      {/*  <Exercicio1 nome="João Vitor" />  */}
-      {/*  <Exercicio2/> */}
+      <Exercicio1 nome="Lucas Viana" /> 
+      {/* <Exercicio2/> */}
       {/* <Exercicio3/> */}
-      <Exercicio4/>
+      {/* <Exercicio4/> */}
     </View>
   )
 }

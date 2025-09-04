@@ -6,7 +6,8 @@ const Exercicio2 = () => {
 
     const [contador, setContador] = useState(0)
 
-    function incrementar() {  
+    function incrementar() {
+        setContador(contador + 1)
     }
 
     function decrementar() { 
