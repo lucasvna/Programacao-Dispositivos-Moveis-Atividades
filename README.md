@@ -1,7 +1,7 @@
 # 📱 Repositório de Exercícios React Native
 
-Bem-vindo ao repositório de estudos e práticas com **React Native**!  
-Aqui estão reunidos todos os exercícios realizados durante as aulas práticas, separados por pastas conforme o conteúdo de cada aula.
+Aqui estão reunidos todos os exercícios realizados durante as aulas práticas, separados por pastas conforme o conteúdo de cada aula da disciplina de Programação de Dispositivos Móveis 
+ministrada pelo Prof. Kelson.
 
 ---
 
@@ -106,7 +106,7 @@ Trabalha estilos com `StyleSheet`, botões e interação com o usuário.
 Os prints podem ser anexados diretamente nos READMEs das pastas, utilizando a seguinte estrutura:
 
 ```markdown
-## 🖼️ Print do Exercício
+## 📷 Exemplo
 
 ![Image](https://github.com/user-attachments/assets/exemplo-id-imagem)
 ```
