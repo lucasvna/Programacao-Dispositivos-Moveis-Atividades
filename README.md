@@ -3,7 +3,6 @@
 Aqui estão reunidos todos os exercícios realizados durante as aulas práticas, separados por pastas conforme o conteúdo de cada aula da disciplina de Programação de Dispositivos Móveis 
 ministrada pelo Prof. Kelson.
 
----
 ## 👨‍💻 Autor
 
 **Lucas Viana**  
