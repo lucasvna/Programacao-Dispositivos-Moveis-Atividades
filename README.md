@@ -40,12 +40,12 @@ Cada pasta contém:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone link-do-repositorio
    ```
 
 2. **Acesse o diretório do projeto:**
    ```bash
-   cd seu-repositorio
+   cd repositorio
    ```
 
 3. **Instale as dependências:**
