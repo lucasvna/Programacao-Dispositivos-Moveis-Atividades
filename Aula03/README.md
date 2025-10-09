@@ -49,11 +49,7 @@ Após executar ```expo start```, o Expo CLI iniciará um servidor de desenvolvim
 2. **No seu celular (Recomendado)**: Baixe o aplicativo Expo Go (disponível na App Store ou Google Play) e escaneie o código QR exibido no terminal ou na página do navegador.
 
 ## 🖼️ Capturas de Tela
-Aqui você pode adicionar capturas de tela da aplicação para que outros desenvolvedores e usuários possam visualizar a interface da tela de Login.
-
-**Tela de Login**
 ![Sem título](https://github.com/user-attachments/assets/a69efa2e-9b7b-4364-bcd0-4771e3a56f7c)
-
 
 ## 📁 Estrutura do Código
 O código é composto por dois arquivos principais:
