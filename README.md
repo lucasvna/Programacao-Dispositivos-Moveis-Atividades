@@ -5,7 +5,7 @@ ministrada pelo Prof. Kelson.
 
 ## 👨‍💻 Autor
 
-**Lucas Viana**  
+**Lucas Viana de Abrantes**  
 Sistemas de informação - P5B.
 
 ---
