@@ -55,7 +55,7 @@ Usa o **useState** para criar um contador simples com dois botões:
 Um campo `TextInput` que exibe em tempo real o texto digitado pelo usuário abaixo do campo.  
 Excelente para praticar **estado controlado** com `useState`.
 
-📸 **Exemplo:**
+📸 **Exemplo:** <br>
 ![Exercicio 3 - Campo de texto interativo](https://github.com/user-attachments/assets/2ce5857c-bbf2-47ad-9a65-ec91824e0f50)
 
 ---
