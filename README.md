@@ -1,20 +1,121 @@
-# Programacao-Dispositivos-Moveis-Atividades
+# 📱 Repositório de Exercícios React Native
 
-Aluno: Lucas Viana de Abrantes
+Bem-vindo ao repositório de estudos e práticas com **React Native**!  
+Aqui estão reunidos todos os exercícios realizados durante as aulas práticas, separados por pastas conforme o conteúdo de cada aula.
 
-## Resultados Exercios
+---
 
-Exercicio 1:
-<img width="1364" height="719" alt="ex01" src="https://github.com/user-attachments/assets/b3c5c5bb-7a88-4b7b-bc1e-ed8de009673d" />
+## 📂 Estrutura do Repositório
 
-Exercicio 2:
-<img width="1365" height="721" alt="ex02" src="https://github.com/user-attachments/assets/2fa0cd79-73bb-4a71-8e81-36acf796d250" />
+O repositório está organizado da seguinte forma:
 
-Exercicio 3:
-<img width="1365" height="718" alt="ex03" src="https://github.com/user-attachments/assets/74041ea3-8029-473c-a058-424f9a37d4ea" />
+```
+├── aula01/
+│   ├── Exercicio1.js
+│   ├── Exercicio2.js
+│   ├── Exercicio3.js
+│   ├── Exercicio4.js
+│   └── README.md
+│
+├── aula02/
+│   ├── CartaoApresentacao.js
+│   ├── CartaoPerfil.js
+│   ├── LayoutResponsivo.js
+│   └── README.md
+│
+├── aula03/
+│   ├── Projeto tela de login
+│   └── README.md
+│
+└── README.md  ← (este arquivo)
+```
 
-Exercicio 4:
-<img width="1365" height="719" alt="ex04" src="https://github.com/user-attachments/assets/0edd832f-4097-444e-8c38-75e0ad1ff4f0" />
+Cada pasta contém:
+- Os arquivos `.js` dos exercícios.
+- Um `README.md` explicando o funcionamento, execução e espaço para anexar prints.
 
+---
 
+## 🚀 Como Executar os Exercícios
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+
+2. **Acesse o diretório do projeto:**
+   ```bash
+   cd seu-repositorio
+   ```
+
+3. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o aplicativo:**
+   ```bash
+   npx expo start
+   ```
+   ou
+   ```bash
+   npm start
+   ```
+
+5. **Escolha onde rodar:**
+   - 📱 **Emulador Android**
+   - 🍎 **Emulador iOS**
+   - 🌐 **Expo Go (celular físico)**
+
+---
+
+## 🧩 Conteúdo das Aulas
+
+### 📘 Aula 01 — Fundamentos e Componentes Básicos
+Conceitos iniciais de componentes, estado e renderização dinâmica.
+
+📁 Pasta: `Aula01/`
+
+- `Exercicio1` — Saudação personalizada com props.  
+- `Exercicio2` — Contador com `useState`.  
+- `Exercicio3` — Entrada de texto com `TextInput`.  
+- `Exercicio4` — Listagem com `.map()`.
+
+---
+
+### 📗 Aula 02 — Estilização e Componentes Visuais
+Trabalha estilos com `StyleSheet`, botões e interação com o usuário.
+
+📁 Pasta: `Aula02/`
+
+- `CartaoApresentacao` — Cartão de perfil com botões estilizados.  
+- `CartaoPerfil` — Exemplo de renderização condicional com botão “Ver Mais / Ver Menos”.  
+- `LayoutResponsivo` — Exemplo de layout com `flex` e divisões visuais (header, content, footer).
+
+---
+
+### 📙 Aula 03 — Tela de Login e Home
+
+📁 Pasta: `Aula03/`
+
+- Projeto em desenvolvimento de Tela de Login e Home page.
+---
+
+## 🖼️ Prints dos Exercícios
+
+Os prints podem ser anexados diretamente nos READMEs das pastas, utilizando a seguinte estrutura:
+
+```markdown
+## 🖼️ Print do Exercício
+
+![Image](https://github.com/user-attachments/assets/exemplo-id-imagem)
+```
+---
+
+## 👨‍💻 Autor
+
+**Lucas Viana**  
+Sistemas de informação - P5B.
+
+---
 
