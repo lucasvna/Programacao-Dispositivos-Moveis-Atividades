@@ -4,7 +4,12 @@ Aqui estão reunidos todos os exercícios realizados durante as aulas práticas,
 ministrada pelo Prof. Kelson.
 
 ---
+## 👨‍💻 Autor
 
+**Lucas Viana**  
+Sistemas de informação - P5B.
+
+---
 ## 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
@@ -112,10 +117,4 @@ Os prints podem ser anexados diretamente nos READMEs das pastas, utilizando a se
 ```
 ---
 
-## 👨‍💻 Autor
-
-**Lucas Viana**  
-Sistemas de informação - P5B.
-
----
 
