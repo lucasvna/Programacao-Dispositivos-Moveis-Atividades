@@ -44,7 +44,7 @@ Usa o **useState** para criar um contador simples com dois botões:
 - `Incrementar` → aumenta o valor  
 - `Decrementar` → diminui o valor  
 
-📸 **Exemplo de execução:**
+📸 **Exemplo de execução:** <br>
 ![Exercicio 2 - Contador com numero positivo](https://github.com/user-attachments/assets/96d1814b-1f85-4ff3-ada7-37746f997408)
 <br>
 ![Exercicio 2 - Contador com numero negativo](https://github.com/user-attachments/assets/9e3d61f7-78df-4123-b17a-79cd2dda6b4f)
@@ -63,7 +63,7 @@ Excelente para praticar **estado controlado** com `useState`.
 ### 🟧 Exercicio 4 — Listagem de nomes
 Renderiza uma **lista de nomes** usando o método `.map()`, exibindo cada item na tela com espaçamento e estilização simples.
 
-📸 **Exemplo:**
+📸 **Exemplo:** <br>
 ![Exercicio 4 - Listagem de nomes](https://github.com/user-attachments/assets/cf7ac50e-750d-451e-84cb-c591b927e218)
 
 ---
