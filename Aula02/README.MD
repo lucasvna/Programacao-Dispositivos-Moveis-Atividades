@@ -16,6 +16,7 @@ O objetivo é treinar **estilos com StyleSheet** e o uso de **componentes de lay
 - Criação de botões estilizados
 
 📸 **Resultado:**  
+![Cartão de Apresentação](https://github.com/user-attachments/assets/afd47ffb-104d-4d6b-b4f6-3520f9ecd214)
 
 ---
 
@@ -31,7 +32,9 @@ O foco é a prática do **uso de estados (`useState`)** e **renderização condi
 - Interação com o usuário via `TouchableOpacity`
 
 📸 **Resultado:**  
+![Cartão de Perfil - Botão Ver Mais](https://github.com/user-attachments/assets/ce4f407e-1a0c-4e7c-b141-eb2035892901)
 
+![Cartão de Perfil - Botão Ver Menos](https://github.com/user-attachments/assets/08685bb2-b573-4703-bca6-834196a9b143)
 ---
 
 ## 🧩 **3. LayoutResponsivo**
@@ -46,6 +49,7 @@ Serve para praticar **proporções flexíveis** e **alinhamento responsivo**.
 - Centralização de elementos
 
 📸 **Resultado:**  
+![Layout Responsivo](https://github.com/user-attachments/assets/9005bdfb-f383-41ee-a83c-01c337ee4650)
 
 ---
 
