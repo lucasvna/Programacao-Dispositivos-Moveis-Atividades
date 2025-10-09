@@ -46,6 +46,7 @@ Usa o **useState** para criar um contador simples com dois botões:
 
 📸 **Exemplo de execução:**
 ![Exercicio 2 - Contador com numero positivo](https://github.com/user-attachments/assets/96d1814b-1f85-4ff3-ada7-37746f997408)
+<br>
 ![Exercicio 2 - Contador com numero negativo](https://github.com/user-attachments/assets/9e3d61f7-78df-4123-b17a-79cd2dda6b4f)
 
 ---
