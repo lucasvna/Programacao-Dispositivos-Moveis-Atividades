@@ -35,8 +35,7 @@ Componente que recebe uma **propriedade (`nome`)** e exibe uma mensagem de sauda
 ```jsx
 <Exercicio1 nome="Lucas" />
 ```
-
-![Image](https://github.com/user-attachments/assets/SEU-LINK-AQUI)
+![Exercicio1 - Saudacao com nome](https://github.com/user-attachments/assets/db2478b0-4f8a-44ed-8b40-34f1e9eb73ae)
 
 ---
 
@@ -46,7 +45,8 @@ Usa o **useState** para criar um contador simples com dois botões:
 - `Decrementar` → diminui o valor  
 
 📸 **Exemplo de execução:**
-![Image](https://github.com/user-attachments/assets/SEU-LINK-AQUI)
+![Exercicio 2 - Contador com numero positivo](https://github.com/user-attachments/assets/96d1814b-1f85-4ff3-ada7-37746f997408)
+![Exercicio 2 - Contador com numero negativo](https://github.com/user-attachments/assets/9e3d61f7-78df-4123-b17a-79cd2dda6b4f)
 
 ---
 
@@ -55,7 +55,7 @@ Um campo `TextInput` que exibe em tempo real o texto digitado pelo usuário abai
 Excelente para praticar **estado controlado** com `useState`.
 
 📸 **Exemplo:**
-![Image](https://github.com/user-attachments/assets/SEU-LINK-AQUI)
+![Exercicio 3 - Campo de texto interativo](https://github.com/user-attachments/assets/2ce5857c-bbf2-47ad-9a65-ec91824e0f50)
 
 ---
 
@@ -63,7 +63,7 @@ Excelente para praticar **estado controlado** com `useState`.
 Renderiza uma **lista de nomes** usando o método `.map()`, exibindo cada item na tela com espaçamento e estilização simples.
 
 📸 **Exemplo:**
-![Image](https://github.com/user-attachments/assets/SEU-LINK-AQUI)
+![Exercicio 4 - Listagem de nomes](https://github.com/user-attachments/assets/cf7ac50e-750d-451e-84cb-c591b927e218)
 
 ---
 
@@ -72,5 +72,3 @@ Renderiza uma **lista de nomes** usando o método `.map()`, exibindo cada item n
 - É possível testar cada exercício individualmente importando o componente desejado em `App.js`.
 
 ---
-
-✍️ Desenvolvido por **Lucas** — estudos de React Native com foco em prática e componentes funcionais.
