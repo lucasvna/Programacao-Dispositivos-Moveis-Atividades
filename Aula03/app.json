@@ -24,17 +24,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "expo": {
-    
-    "extra": {
-      "firebaseApiKey": "SUA_API_KEY",
-      "firebaseAuthDomain": "seu-projeto.firebaseapp.com",
-      "firebaseProjectId": "seu-projeto-id",
-      "firebaseStorageBucket": "seu-projeto.appspot.com",
-      "firebaseMessagingSenderId": "XXXX",
-      "firebaseAppId": "1:...:web:..."
-      }
     }
   }
 }

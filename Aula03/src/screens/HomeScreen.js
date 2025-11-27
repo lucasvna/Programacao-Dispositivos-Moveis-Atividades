@@ -44,13 +44,13 @@ const HomeScreen = ({ navigation }) => {
     <View style={styles.container}>
       <Text style={styles.title}>📚 Cursos Disponíveis</Text>
       <FlatList
-      data={courses}
-      keyExtractor={(item) => item.id}
-      renderItem={({ item }) => (
+      data={cursos}
+      keyExtractor={() => cursos.id}
+      renderItem={({ cursos }) => (
         <TouchableOpacity style={styles.itemContainer} 
-        onPress={ () => goToDetailsScreen(item) }>
-            <Text style={styles.itemTitle}>{item.name}</Text>
-            <Text style={styles.itemDescription}>{item.description}</Text>
+        onPress={ () => goToDetailsScreen(cursos) }>
+            <Text style={styles.itemTitle}>{cursos.name}</Text>
+            <Text style={styles.itemDescription}>{cursos.description}</Text>
         </TouchableOpacity>
 
       )
