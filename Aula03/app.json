@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Aula03",
-    "slug": "Aula03",
+    "name": "aula03",
+    "slug": "aula03",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "expo": {
+    
+    "extra": {
+      "firebaseApiKey": "SUA_API_KEY",
+      "firebaseAuthDomain": "seu-projeto.firebaseapp.com",
+      "firebaseProjectId": "seu-projeto-id",
+      "firebaseStorageBucket": "seu-projeto.appspot.com",
+      "firebaseMessagingSenderId": "XXXX",
+      "firebaseAppId": "1:...:web:..."
+      }
     }
   }
 }
